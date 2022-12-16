@@ -8,10 +8,12 @@ CSIT student at NIST College Banepa.
 *   ✉️  You can contact me at [tm.aashish1@gmail.com](mailto:tm.aashish1@gmail.com)
 *   🚀  I'm currently working on [Laravel](http://laravel.com/)
 *   🧠  I'm learning Laravel With Vue
-<a href="https://www.github.com/aashishtimalsina" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/aashishtimalsina?logo=github&style=for-the-badge&color=facc15&labelColor=365314" /></a><a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/@aashishtimi?logo=twitter&style=for-the-badge&color=facc15&labelColor=365314"
-                /></a>
+<a href="https://www.github.com/aashishtimalsina" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/aashishtimalsina?logo=github&style=for-the-badge&color=facc15&labelColor=365314" />
+</a>
+<a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/@aashishtimi?logo=twitter&style=for-the-badge&color=facc15&labelColor=365314"/>
+                </a>
 
 ### Skills 
 <p align="left">
@@ -30,16 +32,17 @@ CSIT student at NIST College Banepa.
                     
 
  ### Socials
-                  
-                  <p align="left"> <a href="https://discord.com/users/Aashish#6184" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/tm.aashish" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/aashishtimalsina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/me.aaashish" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aashish-timalsina-4b8156206" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@tm.aashish1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20666695/aashish-timalsina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@aacss2133" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+ <p align="left"> <a href="https://discord.com/users/Aashish#6184" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/tm.aashish" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/aashishtimalsina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/me.aaashish" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aashish-timalsina-4b8156206" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@tm.aashish1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20666695/aashish-timalsina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@aacss2133" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aashishtimalsina"><img src="https://github-readme-stats.vercel.app/api?username=aashishtimalsina&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=facc15&icon_color=facc15&bg_color=365314&hide_border=true&show_icons=true" alt="aashishtimalsina's GitHub stats" /></a>
+<a href="http://www.github.com/aashishtimalsina">
+    <img src="https://github-readme-stats.vercel.app/api?username=aashishtimalsina&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=facc15&icon_color=facc15&bg_color=365314&hide_border=true&show_icons=true" alt="aashishtimalsina's GitHub stats" /></a>
 
-<a href="http://www.github.com/aashishtimalsina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishtimalsina&stroke=facc15&background=365314&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="http://www.github.com/aashishtimalsina">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishtimalsina&stroke=facc15&background=365314&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="http://www.github.com/aashishtimalsina"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aashishtimalsina&bg_color=365314&color=facc15&line=facc15&point=facc15&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
