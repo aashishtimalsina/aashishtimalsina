@@ -12,7 +12,7 @@ CSIT student at NIST College Banepa.
     <img src="https://img.shields.io/github/followers/aashishtimalsina?logo=github&style=for-the-badge&color=facc15&labelColor=365314" />
 </a>
 <a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/@aashishtimi?logo=twitter&style=for-the-badge&color=facc15&labelColor=365314"/>
+    <img src="https://img.shields.io/twitter/follow/@aashishtimi"/>
 </a>
 
 ### Skills 
