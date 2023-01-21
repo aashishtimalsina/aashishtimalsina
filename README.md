@@ -82,7 +82,7 @@ CSIT student at NIST College Banepa.
     <a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </a> 
-    <a href="https://www.youtube.com/@aacss2133" target="_blank" rel="noreferrer">
+    <a href="https://www.youtube.com/@tm.aashish" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </a>
 </p>
