@@ -105,6 +105,8 @@ CSIT student at NIST College Banepa.
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aashishtimalsina&bg_color=365314&color=facc15&line=facc15&point=facc15&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
+![image](https://github.com/whoami15/whoami15/blob/master/dino.gif)
+
 ### Support Me
 <a href="https://www.buymeacoffee.com/tm.aashish1">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
