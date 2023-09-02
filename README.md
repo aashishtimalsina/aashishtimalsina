@@ -55,7 +55,6 @@ CSIT student at NIST College Banepa.
 </a>
 </p>
                     
-
  ### Socials
  <p align="left"> 
     <a href="https://discord.com/users/Aashish#6184" target="_blank" rel="noreferrer">
