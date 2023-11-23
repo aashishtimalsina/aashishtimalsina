@@ -60,7 +60,7 @@ CSIT student at NIST College Banepa.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"                      alt="Figma"/>
 </a>
  <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="36" height="36" alt="Arch Linux"/>
+    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height="36" alt="Arch Linux"/>
 </a>
 </p>
                     
