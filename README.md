@@ -65,9 +65,13 @@ CSIT student at NIST College Banepa.
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36"                      alt="Python"/>
 </a>
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chat-gpt-colored.svg" width="36" height="36"                      alt="Python"/>
+</a>
  <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height="36" alt="Arch Linux"/>
 </a>
+ 
 </p>
                     
  ### Socials
