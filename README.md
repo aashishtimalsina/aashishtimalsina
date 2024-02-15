@@ -76,7 +76,7 @@ CSIT student at NIST College Banepa.
     <a href="https://discord.com/users/Aashish#6184" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </a> 
-    <a href="https://www.facebook.com/tm.aashish" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.facebook.com/tm.aashish" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
     </a> 
     <a href="https://www.github.com/aashishtimalsina" target="_blank" rel="noreferrer">
@@ -84,19 +84,19 @@ CSIT student at NIST College Banepa.
     </a> 
     <a href="http://www.instagram.com/me.aaashish" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </a> 
+    </a>  -->
     <a href="https://www.linkedin.com/in/aashish-timalsina-4b8156206" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a> 
     <a href="http://www.medium.com/@tm.aashish1" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
     </a> 
-    <a href="https://www.stackoverflow.com/users/20666695/aashish-timalsina" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.stackoverflow.com/users/20666695/aashish-timalsina" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-    </a> 
-    <a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer">
+    </a>  -->
+<!--     <a href="https://www.twitter.com/@aashishtimi" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </a> 
+    </a>  -->
     <a href="https://www.youtube.com/@tm.aashish" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </a>
