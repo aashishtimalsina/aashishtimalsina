@@ -108,9 +108,9 @@ CSIT student at NIST College Banepa.
 </p>
 
 ### Badges
-<a href="http://www.github.com/aashishtimalsina">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishtimalsina&stroke=facc15&background=365314&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=aashishtimalsina&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aashishtimalsina&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishtimalsina&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- 
  ![image](https://github.com/whoami15/whoami15/blob/master/dino.gif) 
