@@ -9,8 +9,13 @@ CSIT student at NIST College Banepa.
 *   🌍  I'm based in Nepal, Kavre, Banepa
 *   🖥️  See my portfolio at [aashishtimalsina.com.np](http://aashishtimalsina.com.np)
 *   ✉️  You can contact me at [tm.aashish1@gmail.com](mailto:tm.aashish1@gmail.com)
-*   🚀  Currently working on Laravel, Django & React
-*   🧠  Learning Flutter, Rust, and more
+*   🔭  I’m currently working on Laravel, React & Django
+*   👯  I’m looking to collaborate on open-source projects related to web development
+*   🤝  I’m looking for help with mastering advanced concepts in Laravel
+*   🌱  I’m currently learning Flutter, Rust, and more
+*   💬  Ask me about my experience with web development technologies
+*   ⚡  Fun fact: I enjoy hiking and exploring new places in my free time!
+
 <a href="https://www.github.com/aashishtimalsina" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/aashishtimalsina?logo=github&style=for-the-badge&color=facc15&labelColor=365314" />
 </a>
