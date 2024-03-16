@@ -108,8 +108,8 @@ CSIT student at NIST College Banepa.
 </p>
 
 ### Badges
-![](https://github-readme-stats.vercel.app/api?username=aashishtimalsina&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aashishtimalsina&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aashishtimalsina&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aashishtimalsina&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishtimalsina&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- 
