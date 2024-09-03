@@ -12,7 +12,7 @@ CSIT student at NIST College Banepa.
 *   🔭  I’m currently working on Laravel, React & Django
 *   👯  I’m looking to collaborate on open-source projects related to web development
 *   🤝  I’m looking for help with mastering advanced concepts in Laravel
-*   🌱  I’m currently learning Flutter, Rust, and more
+*   🌱  I’m currently learning Flutter, Rust, Fast API, and more
 *   💬  Ask me about my experience with web development technologies
 *   ⚡  Fun fact: I enjoy hiking and exploring new places in my free time!
 
