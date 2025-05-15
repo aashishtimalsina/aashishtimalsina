@@ -4,9 +4,9 @@
     <img src="https://komarev.com/ghpvc/?username=aashishtimalsina&label=Profile%20views&color=0e75b6&style=flat" alt="aashishtimalsina" />
 </p>
 
-## CSIT Student & Tech Enthusiast
+## Software Developer & Tech Enthusiast
 
-I'm a passionate developer with expertise in web development, AI/ML, and mobile applications. Currently pursuing Computer Science and Information Technology at NIST College Banepa, I'm dedicated to creating innovative solutions that make a difference.
+I'm a passionate full-stack developer with expertise in web development, AI/ML, and mobile applications. I love building innovative, impactful solutions using modern technologies.
 
 * 🌍 Based in Nepal, Kavre, Banepa
 * 🖥️ See my portfolio at [aashishtimalsina.com.np](http://aashishtimalsina.com.np)
